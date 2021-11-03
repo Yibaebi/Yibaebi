@@ -5,9 +5,7 @@
 
 - Read some of my articles on [Medium](https://medium.com/@elliot.yibaebi)
 
-- 💬 Ask me about **React, JavaScript, Typescript, HTML, and CSS.**
-
-- 📫 Send me an [**email.**](<a href="mailto:@elliot.yibaebi@gmail.com"></a>) 😎
+- 💬 Ask me about **React, JavaScript, Typescript, HTML, and CSS.** 😎
 
 - 📄 Know about my [experiences.](https://docs.google.com/document/d/1e14argOFiL83AgNDJmTsXwXF9wbvKx-rTWTUGWhKr0I/edit?usp=sharing)
 
