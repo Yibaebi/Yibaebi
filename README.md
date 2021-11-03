@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, Typescript, HTML, and CSS.**
 
-- 📫 Send me an [**email.**](elliot.yibaebi@gmail.com) 😎
+- 📫 Send me an [**email.**](<a href="mailto:@elliot.yibaebi@gmail.com"></a>) 😎
 
 - 📄 Know about my [experiences.](https://docs.google.com/document/d/1e14argOFiL83AgNDJmTsXwXF9wbvKx-rTWTUGWhKr0I/edit?usp=sharing)
 
