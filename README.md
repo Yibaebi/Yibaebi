@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elliot Yibaebi</h1>
 <h3 align="center">A non-regular frontend developer Nigeria. 😉</h3>
 
-- 🌱 I’m currently learning **Typescript and Blockchain Development**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - Read some of my articles on [Medium](https://medium.com/@elliot.yibaebi)
 
