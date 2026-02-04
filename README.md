@@ -9,9 +9,8 @@
 ### 🚀 About Me  
 - 🔭 I specialize in **React, Ember.js, Next.js, TypeScript, JavaScript, and modern frontend architectures.**  
 - 🌱 Currently exploring **AI/LLM systems with Python** (Langchain, Langgraph, FastAPI).  
-- 🛡️ Building **mobile application security platforms** serving 60,000+ applications globally.
-- 👨‍🏫 Mentored over **150+ frontend engineers** and speaking at international tech conferences.
-- 🌍 Contributed to **blockchain ecosystems** (Algorand, Base) and **Web3 adoption in Africa** through open-source projects.
+- 🛡️ Building **mobile application security solutions** securing enterprises globally.
+- 👨‍🏫 Mentoring newbie **frontend engineers** since 2022.
 - 📝 I scarcely ocassionally about software engineering on **[Medium](https://medium.com/@elliot.yibaebi)**.  
 - 💬 Ask me about **frontend development, mobile application security, and mentorship.**  
 
